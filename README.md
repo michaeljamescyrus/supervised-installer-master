@@ -1,6 +1,3 @@
-# This install method has been deprecated.
-
-## https://www.home-assistant.io/blog/2020/05/09/deprecating-home-assistant-supervised-on-generic-linux/
 
 # Install Home Assistant Supervised
 
